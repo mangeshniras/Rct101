@@ -1,0 +1,21 @@
+.NavDiv {
+    margin-left: 300px;
+    background-color: black;
+    align-items: center;
+    max-width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+}
+.NavDiv_1 {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between;
+     */
+     gap: 30px;
+}
+button {
+    background-color: skyblue;
+}
